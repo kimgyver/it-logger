@@ -10,16 +10,9 @@
     {
       "id": 2,
       "message": "Workstation 007 not posting",
-      "attention": true,
+      "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-11-04T05:45:40.249Z"
-    },
-    {
-      "id": 3,
-      "message": "333333",
-      "attention": true,
-      "tech": "aaaa bbbbb",
-      "date": "2019-11-04T08:41:14.188Z"
+      "date": "2019-11-04T22:42:50.445Z"
     },
     {
       "id": 4,
@@ -44,6 +37,11 @@
       "firstName": "Jinyoung",
       "lastName": "Kim",
       "id": 4
+    },
+    {
+      "firstName": "Gumdung",
+      "lastName": "Kim",
+      "id": 5
     }
   ]
 }
